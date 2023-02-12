@@ -10,6 +10,7 @@ yesBtn.addEventListener('click',function () {
     alert('Ya estás ceeeeeercaaaaa')
     alert('A naaaaaadaaaaa')
     alert('Listo xd, coloca el siguiente enlace en el buscador')
+    alerta('https://jcbravo18.github.io/Paralamocha/')
 });
 
 const noBtn = document.querySelector('#noBtn');
